@@ -1,0 +1,1 @@
+A visual profiler for evaluating code and finding the bottlenecks. The output file from the profiler can be opened in Google Chrome, so that you can gain a visual insight from your code and make your decisions in optimizing more accurate.
